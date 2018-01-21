@@ -6,7 +6,7 @@ int main()
 	gets(a);
 	for(i=0;a[i]!=NULL;i++)
 	{
-		if(a[i]==' ')
+		if(a[i]=='3 ')
 		b=++c;
 	}
 	printf("%d",b);
